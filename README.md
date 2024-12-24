@@ -2,8 +2,9 @@
 
 > Complete Laravel CRUD tutorial - Learn to build a web application in 1 hour
 
-[![Laravel Version][laravel-image]][laravel-url]
+[![Laravel Version](https://img.shields.io/badge/Laravel-11.x-brightgreen)](https://laravel.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## 🎥 Video Tutorial
 
